@@ -3,4 +3,4 @@
 Chromatix is a base 2023 build and has a server.
   It can be used for revivals or just to learn,
    It can also be used for personal use.
-    The google drive link is
+    The google drive link is https://drive.google.com/drive/folders/12CQCBCphcr6VgYwGH8CXrCK4SLmpl0PT?usp=drive_link
